@@ -1,0 +1,2 @@
+model_checkpoint_path: "iteration_679_CYC_HWFET_reward-78.4.ckpt"
+all_model_checkpoint_paths: "iteration_679_CYC_HWFET_reward-78.4.ckpt"

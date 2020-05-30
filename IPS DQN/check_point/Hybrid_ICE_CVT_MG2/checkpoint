@@ -1,0 +1,2 @@
+model_checkpoint_path: "iteration_535_CYC_ECE_reward-90.66.ckpt"
+all_model_checkpoint_paths: "iteration_535_CYC_ECE_reward-90.66.ckpt"
